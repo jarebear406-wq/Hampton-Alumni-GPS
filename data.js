@@ -253,17 +253,17 @@ const alumniData = [
   },
   {
     id: 19,
-    name: "Jasmine Holloway",
-    major: "Communications",
-    gradYear: 2014,
-    position: "Digital Media Director",
-    company: "REI Co-op",
-    city: "Seattle, WA",
-    lat: 47.5480,
-    lng: -121.9836,
-    career: "Media & Entertainment",
-    bio: "Leading content strategy at REI. Hampton communications grads run the media game.",
-    avatar: "JH"
+    name: "Nia Holloway",
+    major: "Health Science",
+    gradYear: 2026,
+    position: "Medical Assistant",
+    company: "Northwestern Medicine",
+    city: "Chicago, IL",
+    lat: 44.8781,
+    lng: -87.6298,
+    career: "Medicine",
+    bio: "Supports physicians, nurses, and licensed medical staff by managing patient flow. Assisting with clinical care and performing administrative tasks in clinics and hospitals.",
+    avatar: "NH"
   },
   {
     id: 20,
