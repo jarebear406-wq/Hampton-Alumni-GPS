@@ -253,14 +253,14 @@ const alumniData = [
   },
   {
     id: 19,
-    name: "Nia Holloway",
+    name: "Maya Holloway",
     major: "Health Science",
     gradYear: 2026,
     position: "Medical Assistant",
     company: "Northwestern Medicine",
     city: "Chicago, IL",
     lat: 41.8730,
-    lng: -87.6298,
+    lng: -88.6298,
     career: "Medicine",
     bio: "Supports physicians, nurses, and licensed medical staff by managing patient flow. Assisting with clinical care and performing administrative tasks in clinics and hospitals.",
     avatar: "NH"
