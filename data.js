@@ -259,7 +259,7 @@ const alumniData = [
     position: "Medical Assistant",
     company: "Northwestern Medicine",
     city: "Chicago, IL",
-    lat: 44.8781,
+    lat: 41.8730,
     lng: -87.6298,
     career: "Medicine",
     bio: "Supports physicians, nurses, and licensed medical staff by managing patient flow. Assisting with clinical care and performing administrative tasks in clinics and hospitals.",
